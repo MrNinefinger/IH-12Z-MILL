@@ -1,0 +1,22 @@
+T0 P0 ;this is the "no tool" placeholder 
+T99 P99 Z-16.7821 ;j6 nose 
+T10 P10 Z-15.4528 ;1/2" endmill holder,  2 flute 1/2" endmill hss 
+T14 P14 Z-15.7607 ;1/2" endmill holder,  2 flute 1/2" endmill carbide 
+T4 P4 Z-9.2046 ;large 1/2" drill chuck #4 
+T1 P1 Z-14 ;1/4" 90deg tip spot drill carbide 
+T5 P5 Z-12 ;large 1/2" drill chuck #5 
+T6 P6 Z-12 ;large 1/2" drill chuck #6 
+T8 P8 Z-10 ;boring head 
+T7 P7 Z-14 ;face mill 45degree 3" 
+T12 P12 Z-12 ;er40 collet holder 2 
+T11 P11 Z-12 ;er40 collet holder 1 
+T17 P17 Z-14 ;3/4" endmill holder, 2 flute 3/4" endmill hss 
+T2 P2 Z-12 ;small 1/4" drill chuck #2 
+T15 P15 Z-12 ;3/8" endmill holder, 4 flute 1/4" endmill hss 
+T16 P16 Z-12 ;1/2" endmill holder 
+T18 P18 Z-12 ;1/4" endmill holder 
+T19 P19 Z-12 ;5/8" endmill holder 
+T20 P20 Z-12 ;7/8" endmill holder, 7/8" 4 flute endmill hss 
+T21 P21 Z-12 ;1" endmill holder, 1" 5 flute endmill hss 
+T22 P22 Z-14 ;1/2" endmill holder 
+T23 P23 Z-10 ;tapping head 
